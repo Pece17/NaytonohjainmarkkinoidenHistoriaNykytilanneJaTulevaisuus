@@ -1,6 +1,6 @@
 # Näytonohjainten historia, nykytilanne ja tulevaisuus
 
-Tämä opinnäytetyö käsittelee näytönohjainmarkkinoiden historiaa, nykytilannetta, ja tulevaisuutta.
+Tämä opinnäytetyö käsittelee näytönohjainten historiaa, nykytilannetta, ja tulevaisuutta.
 
 
 ## Tekijät
