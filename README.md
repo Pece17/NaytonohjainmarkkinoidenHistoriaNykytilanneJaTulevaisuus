@@ -1,4 +1,4 @@
-# Näytonohjainten historia, nykytilanne ja tulevaisuus
+# Näytönohjainten historia, nykytilanne ja tulevaisuus
 
 Tämä opinnäytetyö käsittelee näytönohjainten historiaa, nykytilannetta, ja tulevaisuutta.
 
