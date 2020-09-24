@@ -1,4 +1,4 @@
-# Näytönohjainten historia, nykytilanne, ja tulevaisuus
+# Näytönohjainten historia, nykytilanne, ja tulevaisuus (Vai koneen kasaus 2020?)
 
 Tämä opinnäytetyö käsittelee näytönohjainten historiaa, nykytilannetta, ja tulevaisuutta.
 
