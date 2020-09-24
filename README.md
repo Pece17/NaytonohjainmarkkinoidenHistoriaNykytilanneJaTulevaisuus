@@ -1,6 +1,6 @@
-# Näytonohjainmarkkinoiden, Historia, Nykytilanne, ja Tulevaisuus
+# Näytönohjainten historia, nykytilanne, ja tulevaisuus (Vai koneen kasaus 2020?)
 
-Tämä Rasmus Ekmanin ja Pekka Hämäläisen opinnäytetyö käsittelee näytönohjainmarkkinoiden historiaa, nykytilannetta, ja tulevaisuutta.
+Tämä opinnäytetyö käsittelee näytönohjainten historiaa, nykytilannetta, ja tulevaisuutta.
 
 
 ## Tekijät
@@ -11,5 +11,14 @@ Tämä Rasmus Ekmanin ja Pekka Hämäläisen opinnäytetyö käsittelee näytön
 
 ## Tiivistelmä
 
+Tähän tekstiä...
+
 
 ## Sisällys
+
+Tähän tekstiä...
+
+
+# 1. Johdanto
+
+Opinnäytetyön tarkoituksena on tutkia näytönohjainten historiaa, nykytilannetta, ja tulevaisuutta. 
