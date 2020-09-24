@@ -13,5 +13,3 @@ Tämä Rasmus Ekmanin ja Pekka Hämäläisen opinnäytetyö käsittelee näytön
 
 
 ## Sisällys
-
-o
