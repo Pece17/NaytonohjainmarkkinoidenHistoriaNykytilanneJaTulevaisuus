@@ -1,4 +1,4 @@
-# Näytönohjainten historia, nykytilanne ja tulevaisuus
+# Näytönohjainten historia, nykytilanne, ja tulevaisuus
 
 Tämä opinnäytetyö käsittelee näytönohjainten historiaa, nykytilannetta, ja tulevaisuutta.
 
@@ -21,4 +21,4 @@ Tähän tekstiä...
 
 # 1. Johdanto
 
-Opinnäytetyön tarkoituksena on tutkia näytönohjainten historiaa,
+Opinnäytetyön tarkoituksena on tutkia näytönohjainten historiaa, nykytilannetta, ja tulevaisuutta. 
