@@ -11,8 +11,14 @@ Tämä opinnäytetyö käsittelee näytönohjainmarkkinoiden historiaa, nykytila
 
 ## Tiivistelmä
 
+Tähän tekstiä...
+
 
 ## Sisällys
 
+Tähän tekstiä...
+
 
 # 1. Johdanto
+
+Tähän tekstiä...
