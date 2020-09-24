@@ -1,3 +1,6 @@
 # Näytonohjainmarkkinoiden, Historia, Nykytilanne, ja Tulevaisuus
 
-Opinnäytetyö
+Tämä Rasmus Ekmanin ja Pekka Hämäläisen opinnäytetyö käsittelee näytönohjainmarkkinoiden historiaa, nykytilannetta, ja tulevaisuutta.
+
+
+#sd
