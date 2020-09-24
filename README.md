@@ -15,4 +15,4 @@ Tämä Rasmus Ekmanin ja Pekka Hämäläisen opinnäytetyö käsittelee näytön
 ## Sisällys
 
 
-# 11.1.. Johdanto
+# 1. Johdanto
