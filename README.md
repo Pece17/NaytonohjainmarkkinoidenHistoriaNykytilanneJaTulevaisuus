@@ -3,4 +3,7 @@
 Tämä Rasmus Ekmanin ja Pekka Hämäläisen opinnäytetyö käsittelee näytönohjainmarkkinoiden historiaa, nykytilannetta, ja tulevaisuutta.
 
 
-#sd
+# Tekijät
+
+- Rasmus Ekman
+- Pekka Hämäläinen
