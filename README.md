@@ -1,4 +1,4 @@
-# Näytonohjainmarkkinoiden, Historia, Nykytilanne, ja Tulevaisuus
+# Näytonohjainten historia, nykytilanne ja tulevaisuus
 
 Tämä opinnäytetyö käsittelee näytönohjainmarkkinoiden historiaa, nykytilannetta, ja tulevaisuutta.
 
@@ -21,4 +21,4 @@ Tähän tekstiä...
 
 # 1. Johdanto
 
-Opinnäytetyön tarkoituksena on tutkia näytönohjainmarkkinoita, vertailla eri näytönohjain valmistajien tuotteita
+Opinnäytetyön tarkoituksena on tutkia näytönohjainten historiaa,
